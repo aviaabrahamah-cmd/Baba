@@ -1,0 +1,3 @@
+admin supersecret Administrateur
+avia misa2026 Etudiant
+jean math101 Enseignant
