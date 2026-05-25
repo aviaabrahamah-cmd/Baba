@@ -1,0 +1,24 @@
+Nom : Scofield 
+Prenom : Bérose 
+Date de naissance : 13/05/1989 
+Adresse : New-York 
+Niveau : M1 
+-----------------------
+Nom : Rasoa 
+Prenom : Solo 
+Date de naissance : 13/09/2007 
+Adresse : Ilakaka 
+Niveau : L2 
+-----------------------
+Nom : Rasoa 
+Prenom : Solo 
+Date de naissance : 13/09/2007 
+Adresse : Ilakaka 
+Niveau : L2 
+-----------------------
+Nom : Rado 
+Prenom : Bema 
+Date de naissance : 13/12/2006 
+Adresse : Tsimbazaza 
+Niveau : L1 
+-----------------------

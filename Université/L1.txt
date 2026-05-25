@@ -1,0 +1,18 @@
+Nom : Rakoto 
+Prenom : Rabe 
+Date de naissance : 12/05/2005 
+Adresse : Mahazo 
+Niveau : L1 
+-----------------------
+Nom : Randria 
+Prenom : Bema 
+Date de naissance : 12/09/2036 
+Adresse : Ilafy 
+Niveau : L1 
+-----------------------
+Nom : Ratsiahy 
+Prenom : Badoda 
+Date de naissance : 12/02/2005 
+Adresse : Tsiadana 
+Niveau : L1 
+-----------------------
